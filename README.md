@@ -2,9 +2,9 @@
 
 ## Overview
 
-[**IoTextra-Combo**](https://makethingshappy.io/collections/Combo-iotextra) The IoTextra Combo series provides high-precision ADC and Digital I/O solutions for the **makethingshappy** platform. All modules follow the **47x56 mm** form factor.
-
-IoTextra modules integrate cleanly with IoTbase carrier boards and IoTsmart MCU boards and can be used with MQTT and Node-RED workflows (e.g., via the IoTflow automation framework).
+[**IoTextra-Combo**](https://makethingshappy.io/collections/Combo-iotextra) Combo IoTextra is a series of multi-purpose hybrid I/O modules designed for IoT, IIoT, and Smart Home applications. 
+These modules facilitate seamless integration with Raspberry Pi, Arduino, and other popular platforms, significantly accelerating development cycles. 
+Combo IoTextra modules integrate cleanly with **IoTbase** carrier boards and **IoTsmart** MCU boards and can be used with MQTT and Node-RED workflows (e.g., via the IoTflow automation framework).
 
 ---
 
