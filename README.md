@@ -24,7 +24,7 @@ Refer to each module’s documentation for exact technical data.
 ## Module Comparison
 
 - **IoTextra Combo**: Based on **ADS1115** (16-bit), optimized for 4-20mA and 0-10V signals. Two SPDT relays.
-- **IoTextra Analog2**: Based on **MCP3421** (18-bit), provides 2 differential channels for high-resolution tasks. Two SPDT relays and two digital output channels.
+- **IoTextra Analog2**: Based on **MCP3421** (18-bit), provides 2 differential channels for high-resolution tasks. Two SPST relays and two digital output channels.
 
 ---
 
