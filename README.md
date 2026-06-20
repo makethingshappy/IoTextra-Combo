@@ -91,4 +91,4 @@ This repository uses separate licenses for each category of assets:
 - **Code:** [`LICENSE_CODE.md`](./LICENSE_CODE.md) — MIT License  
 - **Schematics & Documentation:** [`LICENSE_HARDWARE.md`](./LICENSE_HARDWARE.md) — CC BY-SA 4.0  
 - **Documentation:** [`LICENSE_DOCS.md`](./LICENSE_DOCS.md)  
-- **Media:** [`LICENSE_MEDIA.md`](
+- **Media:** [`LICENSE_MEDIA.md`]
