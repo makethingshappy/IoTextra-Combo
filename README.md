@@ -70,9 +70,8 @@ https://github.com/makethingshappy/IoTflow/tree/main/Node-RED%20Examples
 ## Ordering Information
 
 ### 📦 SKU Information  
-The complete list of SKUs is provided in the following PDF located in the repository root:
 
-- **SKU Combo IoTextra.pdf**
+The complete list of SKUs for each module is provided in the SKU.md file located in the module's folder.
 
 ---
 
