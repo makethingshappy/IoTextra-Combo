@@ -3,7 +3,7 @@ This folder covers versions 3-03 and 3-04. Version 3-04 includes minor revisions
 ![overview](overview.svg)
 ![software](software.svg)
 ## SKU
-See [SKU.md](SKU.md)
+See [SKU.md](../SKU.md)
 ## Version history
 | Version | Notes |
 |---|---|
