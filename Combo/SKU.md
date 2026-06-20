@@ -7,7 +7,7 @@
 | Field | Description |
 |---|---|
 | `040601` | Product code — IoTextra Combo |
-| `vvv` | Version (e.g. 303 = version 3.03) |
+| `vvv` | Version (e.g. 304 = version 3.04) |
 | `t` | Type & Relay model |
 | `c` | Communication |
 | `2` | Fixed — ADS1115 ADC chip |
