@@ -14,7 +14,7 @@ Each IoTextra-Combo module has its own electrical and mechanical specifications,
 
 Module folders:
 
-- **[Combo/v.3.03](./Combo/v.3.03/)**  
+- **[Combo/v3-03_and_v3-04](./Combo/v3-03_and_v3-04/)**
 - **Combo2** ( Coming Soon )  
 
 Refer to each module’s documentation for exact technical data.
@@ -44,7 +44,7 @@ The **IoTextra Combo** (ADS1115) model supports:
 
 See the diagrams located in:
 
-- **[Combo/v.3.03](./Combo/v.3.03/)**  
+- **[Combo/v3-03_and_v3-04](./Combo/v3-03_and_v3-04/)**
 
 ---
 
