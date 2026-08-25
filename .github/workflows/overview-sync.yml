@@ -19,7 +19,7 @@ env:
   # IoTextra-Combo   -> combo-iotextra
   # IoTsmart         -> iotsmart
   # IoTbase          -> iotbase
-  SHOPIFY_COLLECTION_HANDLE: 'digital-iotextra'
+  SHOPIFY_COLLECTION_HANDLE: 'combo-iotextra'
   # Left border stripe color for the overview block, per product family.
   # IoTextra (all families) -> #8f0000
   # IoTsmart                -> #22c55e
@@ -158,8 +158,6 @@ jobs:
           result = shopify_rest('GET', f'/collections/{collection_id}/products.json?limit=250&fields=id,title')
           all_products.extend(result.get('products', []))
           print(f"Fetched {len(all_products)} product(s) from this collection")
-          for p in all_products:
-              print(f"  - id={p['id']} title={p['title']!r}")
 
           def find_product_id(title):
               t = title.strip()
