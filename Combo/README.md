@@ -9,6 +9,8 @@ This folder covers versions 3-03 and 3-04. Version 3-04 includes minor revisions
 >
 > Current: 0–20mA · 4–20mA · ±20mA · 0–40mA
 >
+> DIN-rail mounting: A 3D-printable DIN-rail mounting tray is available — <a href="https://www.printables.com/model/1802141-din-rail-mount-for-make-things-happy-iotextra">view on Printables</a>
+>
 > HOST and Qwiic connectors · 47×56 mm · 5 VDC supply · compatible with IoTsmart and IoTbase · Open Hardware
 <!-- OVERVIEW_END -->
 ![software](5-logo.svg)
