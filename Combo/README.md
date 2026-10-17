@@ -1,7 +1,7 @@
 This folder covers versions 3-03 and 3-04. Version 3-04 includes minor revisions over v3-03; hardware QR code references v3-03.
 
 <!-- OVERVIEW_START -->
-> **IoTextra Combo**
+> **2x AI-ADS1115 + 2x SPDT - IoTextra Combo**
 >
 > 2 differential analog inputs (16-bit ADS1115) + 2 SPDT relays · 10A · 250VAC / 30VDC · GPIO and/or I²C
 >
